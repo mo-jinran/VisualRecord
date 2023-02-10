@@ -1,6 +1,7 @@
 {
     "manifest_version": 1,
     "name": "可视化听歌排行",
+    "slug": "VisualRecord",
     "preview": "preview.png",
     "description": "在个人主页-听歌排行内查看",
     "version": "1.0.2",
